@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sysfortVendedor</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">2pmPKzja2wUpzO5YjvR3Dl6JP9VYTv0hffZN5</string>
+</resources>
